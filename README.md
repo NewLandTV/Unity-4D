@@ -1,10 +1,10 @@
-# **Unity 4D(À¯´ÏÆ¼ 4Â÷¿ø)**
+# **Unity 4D(ìœ ë‹ˆí‹° 4ì°¨ì›)**
 
 4th dimension with Unity.
 
-# **Links(¸µÅ©)**
+# **Links(ë§í¬)**
 
-* [JkhTV YouTube(Àå°æÇõtv)](https://www.youtube.com/@NewLand2019-JkhTV)
-* [NewLand Cafe(New·£µå Ä«Æä)](https://cafe.naver.com/2019newland)
-* [NewLand Discord(New·£µå µğ½ºÄÚµå)](https://discord.gg/2J646MaZGA)
-* [JkhTV Tistory(Àå°æÇõtvÀÇ Æ¼½ºÅä¸®)](https://jkhtv.tistory.com)
+* [JkhTV YouTube(ì¥ê²½í˜tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
+* [NewLand Cafe(Newëœë“œ ì¹´í˜)](https://cafe.naver.com/2019newland)
+* [NewLand Discord(Newëœë“œ ë””ìŠ¤ì½”ë“œ)](https://discord.gg/2J646MaZGA)
+* [JkhTV Tistory(ì¥ê²½í˜tvì˜ í‹°ìŠ¤í† ë¦¬)](https://jkhtv.tistory.com)
